@@ -20,4 +20,5 @@ abstract final class StringsManager {
   static const String azkarCompletedViewTitle = 'نسأل الله القبول';
   static const String azkarCompletedViewDesc = 'بارك الله فيك\nلقد أتممت أذكار ما بعد الصلاة';
   static const String nextSalahAzkar = 'أذكار الصلاة التالية';
+  static const String hadith = "Hadith";
 }
