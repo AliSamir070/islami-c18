@@ -13,5 +13,11 @@ abstract final class AssetsManager {
   static const String islamiHeader =  "assets/images/islami_header.png";
   static const String quranFrame =  "assets/images/img_sur_number_frame.svg";
   static const String quranBack =  "assets/images/quran_back.png";
+  static const String bgAzkarCounterTag =
+      'assets/images/bg_sebha_counter_tag.png';
+  static const String bgAzkarCounter = 'assets/images/bg_sebha_counter.png';
+  static const String imgCompletedSuccessfully =
+      'assets/images/image_completed_successfully.json';
+  static const String bgAzkar = 'assets/images/bg_sebha.png';
 
 }
