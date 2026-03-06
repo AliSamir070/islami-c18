@@ -6,7 +6,7 @@ import 'package:islami_c18/core/resources/strings_manager.dart';
 import 'package:islami_c18/ui/home/tabs/hadeth/hadeth_tab.dart';
 import 'package:islami_c18/ui/home/tabs/quran/quran_tab.dart';
 import 'package:islami_c18/ui/home/tabs/radio/radio_tab.dart';
-import 'package:islami_c18/ui/home/tabs/sebha/sebha_tab.dart';
+import 'package:islami_c18/ui/home/tabs/sebha/after_salah_azkar_tab.dart';
 import 'package:islami_c18/ui/home/tabs/time/time_tab.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Widget> tabs = [
     QuranTab(),
     HadethTab(),
-    SebhaTab(),
+    AfterSalahAzkarTab(),
     RadioTab(),
     TimeTab()
   ];
