@@ -23,5 +23,11 @@ abstract final class AssetsManager {
   static const String leftCorner =  "assets/images/img_left_corner.png";
   static const String rightCorner =  "assets/images/img_right_corner.png";
   static const String mosque =  "assets/images/mosque.png";
+  static const String bgAzkarCounterTag =
+      'assets/images/bg_sebha_counter_tag.png';
+  static const String bgAzkarCounter = 'assets/images/bg_sebha_counter.png';
+  static const String imgCompletedSuccessfully =
+      'assets/images/image_completed_successfully.json';
+  static const String bgAzkar = 'assets/images/bg_sebha.png';
 
 }
